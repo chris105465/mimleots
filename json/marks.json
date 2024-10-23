@@ -15,6 +15,11 @@
         "category": "common"
     },
     {
+        "name": "Freckles",
+        "url": "c-freckles",
+        "category": "common"
+    },
+    {
         "name": "Shoes",
         "url": "c-shoes",
         "category": "common"
@@ -48,6 +53,16 @@
         "name": "Tail",
         "url": "m-tail",
         "category": "uncommon"
+    },
+    {
+        "name": "Undercoat",
+        "url": "m-undercoat",
+        "category": "uncommon"
+    },
+    {
+        "name": "Giraffe",
+        "url": "r-giraffe",
+        "category": "rare"
     },
     {
         "name": "Margay",
