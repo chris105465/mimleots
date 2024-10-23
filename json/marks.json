@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Cover",
+        "url": "c-cover",
+        "category": "common"
+    },
+    {
+        "name": "Dorsal Line",
+        "url": "c-dorsalLine",
+        "category": "common"
+    },
+    {
+        "name": "Ear Backs",
+        "url": "c-earBacks",
+        "category": "common"
+    },
+    {
+        "name": "Shoes",
+        "url": "c-shoes",
+        "category": "common"
+    },
+    {
+        "name": "Socks",
+        "url": "c-socks",
+        "category": "common"
+    },
+    {
+        "name": "Siamese",
+        "url": "m-siamese",
+        "category": "uncommon"
+    },
+    {
+        "name": "Splotches",
+        "url": "m-splotches",
+        "category": "uncommon"
+    },
+    {
+        "name": "Spots",
+        "url": "m-spots",
+        "category": "uncommon"
+    },
+    {
+        "name": "Stripes",
+        "url": "m-stripes",
+        "category": "uncommon"
+    },
+    {
+        "name": "Tail",
+        "url": "m-tail",
+        "category": "uncommon"
+    },
+    {
+        "name": "Margay",
+        "url": "r-margay",
+        "category": "rare"
+    },
+    {
+        "name": "Nimravus",
+        "url": "r-nimravus",
+        "category": "rare"
+    },
+    {
+        "name": "Panther",
+        "url": "r-panther",
+        "category": "rare"
+    },
+    {
+        "name": "Point Stripes",
+        "url": "r-pointStripes",
+        "category": "rare"
+    },
+    {
+        "name": "Rosettes",
+        "url": "r-rosettes",
+        "category": "rare"
+    }
+]
