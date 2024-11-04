@@ -30,6 +30,11 @@
         "category": "common"
     },
     {
+        "name": "Underline",
+        "url": "c-underline",
+        "category": "common"
+    },
+    {
         "name": "Siamese",
         "url": "m-siamese",
         "category": "uncommon"
@@ -55,9 +60,19 @@
         "category": "uncommon"
     },
     {
+        "name": "Thick Stripes",
+        "url": "m-thickStripes",
+        "category": "uncommon"
+    },
+    {
         "name": "Undercoat",
         "url": "m-undercoat",
         "category": "uncommon"
+    },
+    {
+        "name": "Flow",
+        "url": "r-flow",
+        "category": "rare"
     },
     {
         "name": "Giraffe",
