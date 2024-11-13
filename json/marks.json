@@ -20,6 +20,11 @@
         "category": "common"
     },
     {
+        "name": "Pelt",
+        "url": "c-pelt",
+        "category": "common"
+    },
+    {
         "name": "Shoes",
         "url": "c-shoes",
         "category": "common"
@@ -33,6 +38,11 @@
         "name": "Underline",
         "url": "c-underline",
         "category": "common"
+    },
+    {
+        "name": "Leg Spotting",
+        "url": "m-legSpotting",
+        "category": "uncommon"
     },
     {
         "name": "Siamese",
@@ -102,6 +112,11 @@
     {
         "name": "Rosettes",
         "url": "r-rosettes",
+        "category": "rare"
+    },
+    {
+        "name": "Tortoiseshell",
+        "url": "r-tortoiseshell",
         "category": "rare"
     }
 ]
